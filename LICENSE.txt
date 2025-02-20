@@ -1,0 +1,1 @@
+All contents within this repository are property of the University of Leeds. You may not copy, redistribute, create derivatives of or share any material included here beyond the confines of necessary activities undertaken as a student within the GMD01 Programming for Data Science module.
